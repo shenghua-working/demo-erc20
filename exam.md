@@ -4,10 +4,11 @@
 
 ## 第 1 题：Solidity 语言有哪些数据类型？
 
-例如：
+列出名称即可，无需描述，例如：
 
 -   bool
 -   int8
+-   uint16
 
 评分标准：每个数据类型计 1 分  
 参考资料： https://docs.soliditylang.org/en/latest/types.html
