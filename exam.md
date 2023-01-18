@@ -13,6 +13,30 @@
 评分标准：每个数据类型计 1 分  
 参考资料： https://docs.soliditylang.org/en/latest/types.html
 
+## 答
+- int8
+- int16
+- int24
+- int32
+- int256
+- bool
+- uint
+- uint8
+- uint16
+- uint24
+- uint32
+- uint256
+- byte
+- string
+- enum
+- function
+- address
+- bytes
+- struct
+- mapping
+- hex
+
+
 ## 第 2 题：列举并测试以太坊的 JSONRPC API。
 
 评分标准：每条有效的（提供文本命令和测试截图） API 计 2 分，例如：
